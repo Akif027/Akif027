@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akif027&label=Profile%20views&color=0e75b6&style=flat" alt="akif027" /> </p>
 
-- 🔭 I’m currently working on **Starship Havoc**
+- 🔭 I’m currently working on **Creation Clash 2.5D and PushOfTheIsland**
 
 - 🌱 I’m currently learning **Procedural programming, Unity shaders**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Shaikhakif8149@gmail.com**
 
-- 📄 Know about my experiences [shaikh-akif-portfolio.netlify.app](shaikh-akif-portfolio.netlify.app)
+- 📄 Know about my experiences [shaikh-akif-portfolio.netlify.app]((https://codeforlife.netlify.app/))
 
 - ⚡ Fun fact **Love Solving Bugs**
 
