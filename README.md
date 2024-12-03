@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **any unique games**
 
-- 👨‍💻 All of my projects are available at [shaikh-akif-portfolio.netlify.app](shaikh-akif-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [((https://codeforlife.netlify.app/))
 
 - 💬 Ask me about **Programming, Unity**
 
 - 📫 How to reach me **Shaikhakif8149@gmail.com**
 
-- 📄 Know about my experiences [shaikh-akif-portfolio.netlify.app]((https://codeforlife.netlify.app/))
+- 📄 Know about my experiences ((https://codeforlife.netlify.app/))
 
 - ⚡ Fun fact **Love Solving Bugs**
 
